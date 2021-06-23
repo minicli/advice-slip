@@ -1,0 +1,14 @@
+{
+  "name": "minicli/advice-slip",
+  "description": "Demo - Advice Slip",
+  "license": "MIT",
+  "homepage": "https://github.com/minicli/advice-slip",
+  "keywords": ["cli","command-line", "demo"],
+  "require": {
+    "minicli/minicli": "^2.0",
+    "ext-json": "*"
+  },
+  "bin": [
+    "bin/minicli"
+  ]
+}
